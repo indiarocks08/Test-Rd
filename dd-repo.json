@@ -1,0 +1,8 @@
+{
+    "name": "Darkd",
+    "description": "aghhh.....",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://gitdab.com/recloudstream/cs-darkdemon-extensions/raw/branch/builds/plugins.json"
+    ]
+}
